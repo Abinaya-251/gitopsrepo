@@ -1,6 +1,6 @@
 deployment:
   image: "abinaya251/servicec"
-  tag: "latest"
+  tag: QA-Test-v1.0-2
   secret: regcred
 name: teamb
 service:
