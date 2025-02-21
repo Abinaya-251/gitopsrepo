@@ -1,8 +1,0 @@
-deployment:
-  image: "abinaya251/servicec"
-  tag: QA-Test-v1.0-2
-  secret: regcred
-name: teamb
-service:
-  type: LoadBalancer
-  port: 80
