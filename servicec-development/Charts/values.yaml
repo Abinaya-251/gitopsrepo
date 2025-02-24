@@ -1,6 +1,6 @@
 deployment:
   image: "abinaya251/servicec"
-  tag: "latest"
+  tag: development-v1.0-1
   secret: regcred
 name: teamb
 service:
