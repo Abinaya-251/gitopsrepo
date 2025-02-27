@@ -1,0 +1,8 @@
+deployment:
+  image: "pradeeban1998/tailwinds-cicd"
+  tag: "latest"
+  secret: regcred
+name: teama
+service:
+  type: ClusterIP
+  port: 80
