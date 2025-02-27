@@ -1,6 +1,6 @@
 deployment:
   image: "abinaya251/servicea"
-  tag: integration-test-v1.0-3
+  tag: "latest"
   secret: regcred
 name: teamb
 service:
