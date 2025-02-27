@@ -1,6 +1,6 @@
 deployment:
-  image: "abinaya251/servicec"
-  tag: UAT-v1.0-2
+  image: "abinaya251/servicea"
+  tag: "latest"
   secret: regcred
 name: teamb
 service:
