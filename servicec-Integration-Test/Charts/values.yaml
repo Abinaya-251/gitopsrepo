@@ -1,8 +1,0 @@
-deployment:
-  image: "abinaya251/servicec"
-  tag: integration-test-v1.0-3
-  secret: regcred
-name: teamb
-service:
-  type: LoadBalancer
-  port: 80
