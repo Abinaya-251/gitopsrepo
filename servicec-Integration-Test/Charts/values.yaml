@@ -1,8 +1,0 @@
-deployment:
-  image: "abinaya251/servicec"
-  tag: "latest"
-  secret: regcred
-name: teamb
-service:
-  type: LoadBalancer
-  port: 80
