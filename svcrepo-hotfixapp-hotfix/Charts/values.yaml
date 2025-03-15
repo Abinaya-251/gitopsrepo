@@ -1,6 +1,6 @@
 deployment:
   image: "abinaya251/servicea"
-  tag: "latest"
+  tag: prefixtag-1
   secret: regcred
 name: teamb
 service:
